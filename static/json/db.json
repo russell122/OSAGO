@@ -1,0 +1,100 @@
+{
+    "people": [
+        {
+            "hit": false,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods101/544279f578-2_173x173.jpg",
+            "name": "Букет 25 роз Нина 50 см",
+            "price": 2250,
+            "discountPersent": false,
+            "thing": false,
+            "discount": false,
+            "height": 65,
+            "width": 40,
+            "pieceGoods": false
+        },
+        {
+            "hit": false,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods10/915129ffe5-3_173x173.jpg",
+            "name": "Букет роз Ред наоми 60 см.",
+            "price": 95,
+            "discountPersent": false,
+            "thing": true,
+            "discount": false,
+            "height": false,
+            "width": false,
+            "pieceGoods": true
+        },
+        {
+            "hit": true,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods86/d4f904e76b-1_173x173.jpg",
+            "name": "Букет роз Пинк Флойд 60 см.",
+            "price": 2150,
+            "discountPersent": 15,
+            "thing": false,
+            "discount": true,
+            "height": 30,
+            "width": 30,
+            "pieceGoods": false
+        },
+        {
+            "hit": true,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods136/1cec89eff7-1_173x173.jpg",
+            "name": "Букет Ред пиано с Эвкалиптом",
+            "price": 2190,
+            "discountPersent": 20,
+            "thing": false,
+            "discount": true,
+            "height": 50,
+            "width": 30,
+            "pieceGoods": false
+        },
+        {
+            "hit": false,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods125/216f57850d-1_173x173.jpg",
+            "name": "Букет 7 кустовых роз микс",
+            "price": 1200,
+            "discountPersent": false,
+            "thing": false,
+            "discount": false,
+            "height": 60,
+            "width": 30,
+            "pieceGoods": true
+        },
+        {
+            "hit": false,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods110/3b74cbd343-1_173x173.jpg",
+            "name": "Букет Для любимой",
+            "price": 1750,
+            "discountPersent": false,
+            "thing": false,
+            "discount": false,
+            "height": 50,
+            "width": 35,
+            "pieceGoods": true
+        },
+        {
+            "hit": false,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods86/d4f904e76b-1_173x173.jpg",
+            "name": "Коробка роза с альстромериями",
+            "price": 2150,
+            "discountPersent": false,
+            "thing": false,
+            "discount": false,
+            "height": 30,
+            "width": 30,
+            "pieceGoods": true
+        },
+        {
+            "hit": false,
+            "photo": "https://lavkaroz.ru/files/images/cache/Goods/Goods26/861ee3bbbd-3_173x173.jpg",
+            "name": "Букет роз микс 40 см.",
+            "price": 48,
+            "discountPersent": false,
+            "thing": true,
+            "discount": false,
+            "height": false,
+            "width": false,
+            "pieceGoods": true
+        }
+    ]
+}
